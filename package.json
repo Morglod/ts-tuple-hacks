@@ -1,0 +1,24 @@
+{
+  "name": "ts-tuple-hacks",
+  "version": "1.0.0",
+  "description": "TypeScript collection of tuple tasks",
+  "main": "index.js",
+  "types": "index.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "typescript",
+    "tuple",
+    "tuples"
+  ],
+  "author": "morglod",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Morglod/ts-tuple-hacks.git"
+  }
+}
